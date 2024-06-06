@@ -1,0 +1,229 @@
+{
+    "data": [
+      {
+        "name": "Universitas dr. Soebandi",
+        "url": "https://uds.ac.id/",
+        "img": "Data/img/071107.png"
+      },
+      {
+        "name": "Universitas Yudharta Pasuruan",
+        "url": "https://yudharta.ac.id/",
+        "img": "Data/img/071069.jpg"
+      },
+      {
+        "name": "Universitas Yos Soedarso",
+        "url": "https://uniyos.ac.id/",
+        "img": "Data/img/071013.png"
+      },
+      {
+        "name": "Universitas Nusantara PGRI Kediri",
+        "url": "https://kebidanan.unpkediri.ac.id/",
+        "img": "Data/img/071072.jpg"
+      },
+      {
+        "name": "Universitas Muhammadiyah Malang",
+        "url": "https://www.umm.ac.id/",
+        "img": "Data/img/071024.png"
+      },
+      {
+        "name": "Universitas Mayjen Sungkono",
+        "url": "https://unimas.ac.id/",
+        "img": "Data/img/071022.png"
+      },
+      {
+        "name": "Universitas Islam Madura",
+        "url": "https://www.uim.ac.id/",
+        "img": "Data/img/071068.png"
+      },
+      {
+        "name": "Universitas 17 Agustus 1945 Surabaya",
+        "url": "https://untag-sby.ac.id/",
+        "img": "Data/img/071001.jpg"
+      },
+      {
+        "name": "Sekolah Tinggi Ilmu Kesehatan Majapahit",
+        "url": "https://stikesmajapahit.ac.id/",
+        "img": "Data/img/073123.png"
+      },
+      {
+        "name": "Sekolah Tinggi Ilmu Hukum Sunan Giri",
+        "url": "https://stihsunangiri.ac.id/",
+        "img": "Data/img/073021.png"
+      },
+      {
+        "name": "STKIP Bina Insan Mandiri",
+        "url": "https://stkipbim.ac.id/",
+        "img": "Data/img/073129.png"
+      },
+      {
+        "name": "STIKES Panti Waluya Malang",
+        "url": "https://stikespantiwaluya.ac.id/",
+        "img": "Data/img/073178.jpg"
+      },
+      {
+        "name": "Politeknik Unisma Malang",
+        "url": "http://polisma.ac.id/v/",
+        "img": "Data/img/075005.jpg"
+      },
+      {
+        "name": "Politeknik Ubaya",
+        "url": "https://poltek.ubaya.ac.id/",
+        "img": "Data/img/075003.jpg"
+      },
+      {
+        "name": "Politeknik Surabaya",
+        "url": "http://www.politekniksurabaya.ac.id/",
+        "img": "Data/img/075004.jpg"
+      },
+      {
+        "name": "Politeknik Semen Indonesia",
+        "url": "https://polteksi.ac.id/",
+        "img": "Data/img/075021.jpg"
+      },
+      {
+        "name": "Politeknik Pertanian dan Peternakan Mapena",
+        "url": "https://mapena.ac.id/",
+        "img": "Data/img/075014.png"
+      },
+      {
+        "name": "Politeknik NSC Surabaya",
+        "url": "https://nscpolteksby.ac.id/",
+        "img": "Data/img/075002.jpg"
+      },
+      {
+        "name": "Politeknik Mitra Global",
+        "url": "https://politeknikmitraglobal.ac.id/",
+        "img": "Data/img/075016.png"
+      },
+      {
+        "name": "Politeknik Mercusuar Indonesia",
+        "url": "https://polimercia.ac.id/",
+        "img": "Data/img/075019.png"
+      },
+      {
+        "name": "Politeknik Masamy Internasional",
+        "url": "https://polmain.ac.id/",
+        "img": "Data/img/075015.png"
+      },
+      {
+        "name": "Politeknik Kesehatan Putra Indonesia Malang",
+        "url": "https://poltekkespim.ac.id/",
+        "img": "Data/img/075022.png"
+      },
+      {
+        "name": "Politeknik Kesehatan Kerta Cendekia",
+        "url": "https://www.kertacendekia.ac.id/",
+        "img": "Data/img/075017.jpg"
+      },
+      {
+        "name": "Politeknik Kesehatan Jember",
+        "url": "https://poltekesjember.ac.id/",
+        "img": "Data/img/075023.png"
+      },
+      {
+        "name": "Politeknik Internasional Tamansiswa Mojokerto",
+        "url": "https://politama-mjk.ac.id/",
+        "img": "Data/img/075020.png"
+      },
+      {
+        "name": "Institut Teknologi Telkom Surabaya",
+        "url": "https://ittelkom-sby.ac.id/",
+        "img": "Data/img/072019.png"
+      },
+      {
+        "name": "Institut Bisnis dan Informatika STIKOM Surabaya",
+        "url": "https://dinamika.ac.id/",
+        "img": "Data/img/072016.png"
+      },
+      {
+        "name": "Akademi Teknik Alat Berat Indonesia",
+        "url": "https://www.akabi.ac.id/",
+        "img": "Data/img/074136.jpg"
+      },
+      {
+        "name": "Akademi Sages",
+        "url": "https://sages.ac.id/",
+        "img": "Data/img/074134.jpg"
+      },
+      {
+        "name": "Akademi Komunitas Teknologi Syarifuddin",
+        "url": "https://akts.ac.id/",
+        "img": "Data/img/076003.png"
+      },
+      {
+        "name": "Akademi Komunitas Penabulu Samudra Wiyata",
+        "url": "https://penabulusamudrawiyata.org/",
+        "img": "Data/img/076010.png"
+      },
+      {
+        "name": "Akademi Komunitas Nurul Jadid",
+        "url": "https://aknj.ac.id/",
+        "img": "Data/img/076007.png"
+      },
+      {
+        "name": "Akademi Komunitas Darussalam Blokagung",
+        "url": "https://akd.ac.id/",
+        "img": "Data/img/076006.png"
+      },
+      {
+        "name": "Akademi Komunitas Assunniyyah",
+        "url": "https://akom-assinniyah.ac.id/",
+        "img": "Data/img/076009.png"
+      },
+      {
+        "name": "Akademi Kesehatan Sumenep",
+        "url": "https://akademikesehatansumenep.ac.id/",
+        "img": "Data/img/074133.jpg"
+      },
+      {
+        "name": "Akademi Kesehatan Rustida",
+        "url": "https://stikesrustida.ac.id/",
+        "img": "Data/img/074124.png"
+      },
+      {
+        "name": "Akademi Kesehatan Dharma Husada Kediri",
+        "url": "https://akbiddharmahusadakdr.ac.id/",
+        "img": "Data/img/074138.jpg"
+      },
+      {
+        "name": "Akademi Kebidanan Wiyata Mitra Husada Nganjuk",
+        "url": "https://wimisada.ac.id/",
+        "img": "Data/img/074103.png"
+      },
+      {
+        "name": "Akademi Kebidanan Wijaya Kusuma Malang",
+        "url": "https://www.akbidwijayakusumakotaternate.com/",
+        "img": "Data/img/074101.jpg"
+      },
+      {
+        "name": "Akademi Kebidanan Medika Wiyata Kediri",
+        "url": "https://medikawiyata.ac.id/",
+        "img": "Data/img/074098.jpg"
+      },
+      {
+        "name": "Akademi Kebidanan Dharma Praja Bondowoso",
+        "url": "https://akbid-dharmapraja.ac.id/",
+        "img": "Data/img/074115.png"
+      },
+      {
+        "name": "Akademi Gizi Karya Husada Kediri",
+        "url": "https://gizikaryahusadakediri.ac.id/",
+        "img": "Data/img/074128.png"
+      },
+      {
+        "name": "Akademi Farmasi Mitra Sehat Mandiri Sidoarjo",
+        "url": "https://www.akfarmitseda.ac.id/",
+        "img": "Data/img/074117.png"
+      },
+      {
+        "name": "Akademi Analis Kesehatan Malang",
+        "url": "https://www.aak-malang.ac.id/",
+        "img": "Data/img/074108.jpg"
+      },
+      {
+        "name": "Akademi Analis Kesehatan Delima Husada Gresik",
+        "url": "https://aakdelimahusadagresik.ac.id/",
+        "img": "Data/img/074121.jpg"
+      }
+    ]
+  }
